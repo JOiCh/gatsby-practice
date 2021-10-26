@@ -14,7 +14,7 @@ export default function Home({data}) {
       <section className={styles.header}>
         <div>
           <h2>我是真正的首頁內容RRRRR</h2>
-          <h3>Develop & Deploy</h3>
+          <h3>Develop & Deploy!!!!!</h3>
           <p>UX designer & web developer based in Manchester.</p>
           <Link className={styles.btn} to="/projects">
             My Dear Project
